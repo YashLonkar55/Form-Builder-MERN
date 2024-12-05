@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://form-builder-mern-backend.onrender.com'
+  baseURL: 'https://form-builder-mern-backend.onrender.com/api'
 });
 
 export const saveForm = async (formData) => {
