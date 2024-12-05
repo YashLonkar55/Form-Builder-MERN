@@ -14,8 +14,13 @@ A full-stack **Form Builder Application** built using the **MERN Stack** (MongoD
 - Create forms with an intuitive UI.
 - Add various question types:
   - **Categorize**: Questions requiring categorization of items.
+  <img src="https://drive.google.com/uc?id=1ih-jxpwOmH3Fl8-3LwXQQVqcyrNa0KWX" width="500" />
+  
   - **Cloze**: Fill-in-the-blank questions.
+  <img src="https://drive.google.com/uc?id=1lT_VKH4wQI09MF-Cz7QSCtAMVo7bBINO" width="500" />
+  
   - **Comprehension**: Questions based on a provided passage.
+  <img src="https://drive.google.com/uc?id=1gEtMqDHhn238r71LCHJsJicTvQxsG4Sq" width="500" />
 - Upload images for each question (limited to 10 MB).
 - Add a header image for the form.
 
@@ -28,6 +33,12 @@ A full-stack **Form Builder Application** built using the **MERN Stack** (MongoD
 - Use well-defined schemas for structured data storage.
 
 ---
+
+##APP VIEW
+
+<img src="https://drive.google.com/uc?id=1V7sU95usKZQ9k_S1iFsP2ae5MvcixqIe" width="800" />
+<img src="https://drive.google.com/uc?id=1vKATiKzUzek6zZGdM9D47dXIN7GkoDRX" width="800" />
+<img src="https://drive.google.com/uc?id=1zduhhk11LPo8nAefu7H14l8JeE82MuRl" width="800" />
 
 ## Tech Stack
 
